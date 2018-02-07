@@ -1,5 +1,5 @@
 //LAB 7
-//Trent
+
 //Cylinder with height 1 and base radius 1
 //change the variable Triangle to change the triangles in the disk
 //number of triangles has to be divisible by 4 and equal an even number to look the best
