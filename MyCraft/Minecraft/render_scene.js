@@ -1,5 +1,5 @@
 //LAB 7
-//Trent
+
 
 var canvas;       // HTML 5 canvas
 var gl;           // webgl graphics context
