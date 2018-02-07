@@ -1,5 +1,5 @@
 //LAB 7
-//Trent
+
 //Disk of radius 1
 //change the variable Triangle to change the triangles in the disk
 //number of triangles has to be divisible by 2 and equal an even number to look the best
