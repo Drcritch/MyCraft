@@ -6,8 +6,6 @@
  * Lighting.js and a Material,js)  They are kept together here for simplicity.
  */
 
-//LAB 5
-//Trent and DJ and Dylan
 
 var uAmbient_product;
 var uDiffuse_product;
